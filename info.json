@@ -1,0 +1,12 @@
+{
+  "name": "MetaTether",
+  "symbol": "MTT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcd4a736a7e31c53be041ac885e27dcce8b76686d",
+  "description": "MetaTether is a decentralized token on Binance Smart Chain that brings secure digital payments for everyone.",
+  "website": "",
+  "telegram": "https://t.me/MetaTetherofficial",
+  "email": "MetaTether.MTT@gmail.com"
+}
